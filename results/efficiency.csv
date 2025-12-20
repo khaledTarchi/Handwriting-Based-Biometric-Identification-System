@@ -1,0 +1,3 @@
+model,seconds_per_image,feature_dim,template_bytes,encrypted_bytes,parameters
+svm,0.0308,42,168,224,-
+squeezenet,0.0252,512,2048,2732,722496

@@ -1,0 +1,8 @@
+stage,protocol,rank1
+pretrained,heldout,1.0
+finetuned,heldout,1.0
+scratch,heldout,1.0
+pretrained,seen_writers,0.975
+finetuned,seen_writers,1.0
+scratch,seen_writers,1.0
+meta,embedding_drift,0.370054

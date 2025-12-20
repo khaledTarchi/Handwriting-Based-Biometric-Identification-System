@@ -1,0 +1,11 @@
+variant,model,rank1
+full,svm,0.925
+full,squeezenet,1.0
+no_denoise,svm,0.925
+no_denoise,squeezenet,0.9917
+no_clahe,svm,0.9333
+no_clahe,squeezenet,1.0
+no_binarize,svm,0.725
+no_binarize,squeezenet,1.0
+no_morph,svm,0.925
+no_morph,squeezenet,1.0
