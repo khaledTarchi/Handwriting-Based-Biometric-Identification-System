@@ -154,5 +154,5 @@ The GUI provides three modes:
    triplet loss (requires at least 3 users with 2+ samples each).
 
 Both SVM and SqueezeNet pipelines run in parallel, so you can compare the
-classical and deep approaches side by side.
+classical and deep approaches side by side
 
